@@ -5,6 +5,3 @@ print("Hello Git world!")
 print("xiaowei")
 
 
-
-
-
